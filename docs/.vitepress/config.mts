@@ -34,7 +34,7 @@ export default defineConfig({
     },
   },
   lastUpdated: true,
-  base: "/",
+  base: "/WooLocalizationDocs/",
   head: [
     [
       "link",
